@@ -19,7 +19,7 @@
     "type": "git",
     "url": "git+https://github.com/veyurievna/frontend-project-44.git"
   },
-  "author": "",
+  "author": "veyurievna",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/veyurievna/frontend-project-44/issues"
@@ -27,5 +27,6 @@
   "homepage": "https://github.com/veyurievna/frontend-project-44#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "devDependencies": {}
 }

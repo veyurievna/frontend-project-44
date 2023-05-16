@@ -25,7 +25,6 @@ const generateRound = () => {
   return [question, correctAnswer];
 };
 
-
 export default () => {
   run(description, generateRound);
 };

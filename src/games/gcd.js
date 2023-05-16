@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 import { getRandomNumber } from '../utils.js';
 import run from '../index.js';
 

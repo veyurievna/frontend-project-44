@@ -22,7 +22,7 @@ const generateRound = () => {
   const number = getRandomNumber(minRange, maxRange);
   const question = number.toString();
   const correctAnswer = isPrime(number) ? 'yes' : 'no';
-  return [question, correctAnswer];
+  return [number.toString(), correctAnswer];
 };
 
 export default () => {
